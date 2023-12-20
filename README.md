@@ -1,2 +1,6 @@
 # Notebook
-General Task Framework 
+General Task Framework inspired by Jupyter Notebooks
+
+## Development Notes
+
+
